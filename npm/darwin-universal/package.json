@@ -1,0 +1,15 @@
+{
+  "name": "@poen/test_napi2-darwin-universal",
+  "version": "0.0.0",
+  "os": [
+    "darwin"
+  ],
+  "main": "test_napi2.darwin-universal.node",
+  "files": [
+    "test_napi2.darwin-universal.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}

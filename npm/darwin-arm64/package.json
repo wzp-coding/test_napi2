@@ -1,6 +1,6 @@
 {
   "name": "@poen/test_napi2-darwin-arm64",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "os": [
     "darwin"
   ],

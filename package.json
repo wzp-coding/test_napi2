@@ -1,6 +1,10 @@
 {
   "name": "@poen/test_napi2",
   "version": "0.0.3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wzp-coding/test_napi2"
+  },
   "main": "index.js",
   "types": "index.d.ts",
   "napi": {
@@ -41,9 +45,5 @@
     "test": "ava",
     "universal": "napi universal",
     "version": "napi version"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/wzp-coding/test_napi2"
   }
 }

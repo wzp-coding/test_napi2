@@ -1,6 +1,6 @@
 {
   "name": "@poen/test_napi2",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "repository": "https://github.com/wzp-coding/test_napi2",
   "main": "index.js",
   "types": "index.d.ts",

@@ -11,8 +11,10 @@
   "files": [
     "test_napi2.win32-arm64-msvc.node"
   ],
+  "description": "测试 napi-cli 发包",
   "license": "MIT",
   "engines": {
     "node": ">= 10"
-  }
+  },
+  "repository": "https://github.com/wzp-coding/test_napi2"
 }

@@ -1,10 +1,7 @@
 {
   "name": "@poen/test_napi2",
   "version": "0.0.4",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/wzp-coding/test_napi2"
-  },
+  "repository": "https://github.com/wzp-coding/test_napi2",
   "main": "index.js",
   "types": "index.d.ts",
   "napi": {
@@ -45,5 +42,6 @@
     "test": "ava",
     "universal": "napi universal",
     "version": "napi version"
-  }
+  },
+  "description": "测试 napi-cli 发包"
 }
